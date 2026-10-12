@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/muhiudinali/muhiudinali/main/assets/profile-banner.svg?v=2" width="100%" alt="Muhiudin Ali — Performance marketer. Creative mind. Developer." /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/muhiudinali/muhiudinali/582b48871e4f304bd270b0a3ec93ae24f41ebafa/assets/profile-banner.svg" width="100%" alt="Muhiudin Ali — Performance marketer. Creative mind. Developer." /></p>
 
 <p align="center"><b>STRATEGY &nbsp; / &nbsp; CREATIVE &nbsp; / &nbsp; TECHNOLOGY</b></p>
 <p align="center">AI-powered ad creatives, digital campaigns and modern websites — built with purpose.</p>
