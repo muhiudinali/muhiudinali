@@ -1,73 +1,43 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/muhiudinali/muhiudinali/main/assets/profile-banner.svg" width="100%" alt="Muhiudin Ali — Developer and Creative Performance Marketer. Code, create, grow." />
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/muhiudinali/muhiudinali/main/assets/profile-banner.svg?v=2" width="100%" alt="Muhiudin Ali — Performance marketer. Creative mind. Developer." /></p>
 
-<h2 align="center">Hi, I'm Muhiudin Ali 👋</h2>
-<p align="center"><b>I turn ideas into digital experiences — and creative into impact.</b></p>
-<p align="center">
-  <a href="mailto:muhiudinali215@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-0D9488?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Muhiudin Ali" /></a>
-  <a href="https://github.com/muhiudinali?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-182B3A?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
-</p>
+<p align="center"><b>STRATEGY &nbsp; / &nbsp; CREATIVE &nbsp; / &nbsp; TECHNOLOGY</b></p>
+<p align="center">AI-powered ad creatives, digital campaigns and modern websites — built with purpose.</p>
+<p align="center"><a href="mailto:muhiudinali215@gmail.com"><img src="https://img.shields.io/badge/LET'S_WORK_TOGETHER-B89B68?style=for-the-badge&logo=gmail&logoColor=111214" alt="Let's work together by email" /></a> <a href="https://github.com/muhiudinali?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-202124?style=for-the-badge&logo=github&logoColor=E7D4A2" alt="Explore my code" /></a></p>
 
 ---
 
-### 01 / About me
+### THE PERSON BEHIND THE WORK
 
-I'm a **developer and creative performance marketer** who brings together web development, visual design and AI-powered content. I build modern websites and create digital campaigns with a focus on clear communication, engaging experiences and conversion.
+I'm **Muhiudin Ali — a Performance Marketer, AI Ad Creative professional and Developer**. I combine digital marketing, visual storytelling and web development to help turn ideas into compelling online experiences.
 
-- **Development:** frontend & backend development, Next.js, React and AI-powered websites.
-- **Creative & growth:** AI video and image ads, campaign execution, SEO and social media marketing.
-- **Design:** UI/UX, logo design, visual identity and brand assets.
-- **Learning:** currently pursuing a **BS in Computer Science**.
+My work spans **AI video and image ads, campaign execution, social media marketing, SEO, brand identity and Next.js / React websites**. I'm also pursuing a **BS in Computer Science**, strengthening the technical foundation behind my creative work.
 
-### 02 / What I bring to the table
+### THREE DISCIPLINES. ONE CONNECTED APPROACH.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>⌘ Build digital experiences</h3>
-<p>Modern websites that connect thoughtful interfaces with frontend and backend functionality.</p>
-<p><b>Next.js · React · Web development · UI/UX</b></p>
-</td>
-<td width="50%" valign="top">
-<h3>↗ Create for growth</h3>
-<p>AI-powered ad creatives and digital content that bring together brand storytelling and performance marketing.</p>
-<p><b>AI video & image ads · SEO · Social media · Branding</b></p>
-</td>
-</tr>
-</table>
+<table><tr>
+<td width="33%" valign="top"><h3>01 / Performance</h3><p><b>Marketing with a clear purpose.</b></p><p>Digital campaign execution, social media management and SEO, with a focus on audience relevance and conversion.</p><p><sub>CAMPAIGNS · SOCIAL MEDIA · SEO</sub></p></td>
+<td width="33%" valign="top"><h3>02 / Creative</h3><p><b>Ideas that earn attention.</b></p><p>AI-powered video and image ads, brand visuals and content that translate a message into engaging creative.</p><p><sub>AI ADS · CONTENT · BRAND IDENTITY</sub></p></td>
+<td width="33%" valign="top"><h3>03 / Development</h3><p><b>Experiences that work.</b></p><p>Modern frontend and backend development, Next.js / React websites and thoughtful UI/UX design.</p><p><sub>NEXT.JS · REACT · WEB DEVELOPMENT</sub></p></td>
+</tr></table>
 
-### 03 / Tools & skills
+### MY CREATIVE & TECH TOOLKIT
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-123044?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Figma-153D3A?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Photoshop-172F4D?style=for-the-badge" alt="Adobe Photoshop" />
-  <img src="https://img.shields.io/badge/Illustrator-49351A?style=for-the-badge" alt="Adobe Illustrator" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/AI_Ad_Creatives-0F766E?style=flat-square" alt="AI ad creatives" />
-  <img src="https://img.shields.io/badge/Performance_Marketing-0F766E?style=flat-square" alt="Performance marketing" />
-  <img src="https://img.shields.io/badge/SEO-0F766E?style=flat-square" alt="SEO" />
-  <img src="https://img.shields.io/badge/UI%2FUX-0F766E?style=flat-square" alt="UI/UX design" />
-  <img src="https://img.shields.io/badge/Brand_Identity-0F766E?style=flat-square" alt="Brand identity" />
-</p>
+<p><img src="https://img.shields.io/badge/Performance_Marketing-B89B68?style=for-the-badge&logoColor=111214" alt="Performance marketing" /> <img src="https://img.shields.io/badge/AI_Ad_Creatives-202124?style=for-the-badge" alt="AI ad creatives" /> <img src="https://img.shields.io/badge/SEO-202124?style=for-the-badge" alt="SEO" /></p>
+<p><img src="https://img.shields.io/badge/Next.js-202124?style=flat-square&logo=nextdotjs&logoColor=E7D4A2" alt="Next.js" /> <img src="https://img.shields.io/badge/React-202124?style=flat-square&logo=react&logoColor=E7D4A2" alt="React" /> <img src="https://img.shields.io/badge/Figma-202124?style=flat-square&logo=figma&logoColor=E7D4A2" alt="Figma" /> <img src="https://img.shields.io/badge/Adobe_Photoshop-202124?style=flat-square" alt="Adobe Photoshop" /> <img src="https://img.shields.io/badge/Adobe_Illustrator-202124?style=flat-square" alt="Adobe Illustrator" /> <img src="https://img.shields.io/badge/UI%2FUX_Design-202124?style=flat-square" alt="UI/UX design" /></p>
 
-### 04 / Experience
+### PROFESSIONAL EXPERIENCE
 
-**Frontend Developer · Vexuls Software House**  
-Frontend development and international client web projects.
+| Focus | Experience |
+| :--- | :--- |
+| **Creative & Performance Marketing** | **Websoftice Agency** · AI Ads Creative & Ads Runner. AI-powered video and image ad creatives, alongside campaign execution. |
+| **Web Development** | **Vexuls Software House** · Frontend Developer. Frontend development and international client web projects. |
 
-**AI Ads Creative & Ads Runner · Websoftice Agency**  
-AI-powered video and image ad creatives, alongside campaign execution.
+### LET'S BUILD YOUR NEXT DIGITAL EXPERIENCE
 
-### 05 / Let's connect
+A modern website. A stronger brand presence. A fresh set of ad creatives.
 
-Interested in a website, a creative campaign or a collaboration? **Let's build something useful.**
-
-**Email:** [muhiudinali215@gmail.com](mailto:muhiudinali215@gmail.com)
+**For projects and collaborations:** [muhiudinali215@gmail.com](mailto:muhiudinali215@gmail.com)
 
 ---
 
-<p align="center"><sub>Code with purpose. Create with curiosity. Grow through thoughtful execution.</sub></p>
+<p align="center"><sub><b>MUHIUDIN ALI</b> &nbsp; / &nbsp; PERFORMANCE MARKETING + CREATIVE + DEVELOPMENT</sub></p>
