@@ -22,7 +22,7 @@ My work spans **AI video and image ads, campaign execution, social media marketi
 
 ### 🎨 MY SKILLS & TOOLKIT
 
-<p align="center"><img src="https://skillicons.dev/icons?i=nextjs,react,figma,ps,ai&theme=dark" alt="Next.js, React, Figma, Adobe Photoshop and Adobe Illustrator" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind,git,github,mongodb,express,postgres,nextjs,figma,ps,ai&theme=dark&perline=8" alt="HTML5, CSS3, JavaScript, TypeScript, React, Node.js, Tailwind CSS, Git, GitHub, MongoDB, Express.js, PostgreSQL, Next.js, Figma, Adobe Photoshop and Adobe Illustrator" /></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/muhiudinali/muhiudinali/main/assets/brand-tiles.svg" width="420" alt="Google Flow, ElevenLabs, Meta Ads, TikTok Ads, Snapchat Ads and Google Ads logo tiles" /></p>
 
