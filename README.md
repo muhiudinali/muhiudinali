@@ -20,12 +20,25 @@ My work spans **AI video and image ads, campaign execution, social media marketi
 <td width="33%" valign="top"><h3>03 / Development</h3><p><b>Experiences that work.</b></p><p>Modern frontend and backend development, Next.js / React websites and thoughtful UI/UX design.</p><p><sub>NEXT.JS · REACT · WEB DEVELOPMENT</sub></p></td>
 </tr></table>
 
-### 🎨 MY CREATIVE & TECH TOOLKIT
+### 🎨 MY SKILLS & TOOLKIT
 
-<p align="center"><img src="https://skillicons.dev/icons?i=nextjs,react,figma,ps,ai&theme=dark" alt="Next.js, React, Figma, Photoshop and Illustrator" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=nextjs,react,figma,ps,ai&theme=dark" alt="Next.js, React, Figma, Adobe Photoshop and Adobe Illustrator" /></p>
 
-<p><img src="https://img.shields.io/badge/Performance_Marketing-B89B68?style=for-the-badge&logoColor=111214" alt="Performance marketing" /> <img src="https://img.shields.io/badge/AI_Ad_Creatives-DB2777?style=for-the-badge" alt="AI ad creatives" /> <img src="https://img.shields.io/badge/SEO-059669?style=for-the-badge" alt="SEO" /></p>
-<p><img src="https://img.shields.io/badge/Next.js-2563EB?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" /> <img src="https://img.shields.io/badge/React-0891B2?style=flat-square&logo=react&logoColor=FFFFFF" alt="React" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=FFFFFF" alt="Figma" /> <img src="https://img.shields.io/badge/Adobe_Photoshop-0078D4?style=flat-square" alt="Adobe Photoshop" /> <img src="https://img.shields.io/badge/Adobe_Illustrator-EA580C?style=flat-square" alt="Adobe Illustrator" /> <img src="https://img.shields.io/badge/UI%2FUX_Design-9333EA?style=flat-square" alt="UI/UX design" /></p>
+#### 💻 Web & AI Development
+
+<p><img src="https://img.shields.io/badge/Frontend%20Development-2563EB?style=for-the-badge&logo=react&logoColor=white" alt="Frontend Development" /> <img src="https://img.shields.io/badge/Backend%20Development-4338CA?style=for-the-badge&logo=code&logoColor=white" alt="Backend Development" /> <img src="https://img.shields.io/badge/Web%20Development-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Development" /> <img src="https://img.shields.io/badge/AI%20Website%20Development-7C3AED?style=for-the-badge&logo=sparkles&logoColor=white" alt="AI Website Development" /> <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=react&logoColor=white" alt="React" /></p>
+
+#### 📈 Performance & Digital Marketing
+
+<p><img src="https://img.shields.io/badge/Performance%20Marketing-7C3AED?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Performance Marketing" /> <img src="https://img.shields.io/badge/Digital%20Marketing-2563EB?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Digital Marketing" /> <img src="https://img.shields.io/badge/SEO-059669?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="SEO" /> <img src="https://img.shields.io/badge/Social%20Media%20Management-DB2777?style=for-the-badge&logo=buffer&logoColor=white" alt="Social Media Management" /> <img src="https://img.shields.io/badge/Social%20Media%20Marketing-EA580C?style=for-the-badge&logo=buffer&logoColor=white" alt="Social Media Marketing" /> <img src="https://img.shields.io/badge/Ads%20Running%20%26%20Campaign%20Execution-0284C7?style=for-the-badge&logo=googleads&logoColor=white" alt="Ads Running & Campaign Execution" /></p>
+
+#### 🎬 AI Content & Ad Creative
+
+<p><img src="https://img.shields.io/badge/AI%20Content%20Creation-9333EA?style=for-the-badge&logo=sparkles&logoColor=white" alt="AI Content Creation" /> <img src="https://img.shields.io/badge/AI%20Ad%20Creatives-DB2777?style=for-the-badge&logo=sparkles&logoColor=white" alt="AI Ad Creatives" /> <img src="https://img.shields.io/badge/AI%20Video%20Ads-E11D48?style=for-the-badge&logo=youtube&logoColor=white" alt="AI Video Ads" /> <img src="https://img.shields.io/badge/AI%20Image%20Ads-C026D3?style=for-the-badge&logo=googlephotos&logoColor=white" alt="AI Image Ads" /> <img src="https://img.shields.io/badge/AI%20Generated%20Videos-7C3AED?style=for-the-badge&logo=youtube&logoColor=white" alt="AI Generated Videos" /></p>
+
+#### ✏️ Design & Branding
+
+<p><img src="https://img.shields.io/badge/UI%2FUX%20Design-9333EA?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design" /> <img src="https://img.shields.io/badge/Graphic%20Design-EA580C?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Graphic Design" /> <img src="https://img.shields.io/badge/Logo%20Design-D97706?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Logo Design" /> <img src="https://img.shields.io/badge/Brand%20Identity-DB2777?style=for-the-badge&logo=figma&logoColor=white" alt="Brand Identity" /> <img src="https://img.shields.io/badge/Figma%20Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Design" /> <img src="https://img.shields.io/badge/Adobe%20Photoshop-0078D4?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" /> <img src="https://img.shields.io/badge/Adobe%20Illustrator-B45309?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" /></p>
 
 ### PROFESSIONAL EXPERIENCE
 
