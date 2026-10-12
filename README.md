@@ -24,14 +24,7 @@ My work spans **AI video and image ads, campaign execution, social media marketi
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nextjs,react,figma,ps,ai&theme=dark" alt="Next.js, React, Figma, Adobe Photoshop and Adobe Illustrator" /></p>
 
-<table align="center"><tr>
-<td align="center"><img src="https://www.google.com/s2/favicons?domain=flow.google&sz=128" width="48" height="48" alt="Google Flow logo" /><br/><sub>Google Flow</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/elevenlabs/6D28D9" width="48" height="48" alt="ElevenLabs logo" /><br/><sub>ElevenLabs</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/meta/0866FF" width="48" height="48" alt="Meta logo" /><br/><sub>Meta Ads</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/tiktok/EE1D52" width="48" height="48" alt="TikTok logo" /><br/><sub>TikTok Ads</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/snapchat/F2CB00" width="48" height="48" alt="Snapchat logo" /><br/><sub>Snapchat Ads</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/googleads/4285F4" width="48" height="48" alt="Google Ads logo" /><br/><sub>Google Ads</sub></td>
-</tr></table>
+<p align="center"><img src="https://raw.githubusercontent.com/muhiudinali/muhiudinali/main/assets/brand-tiles.svg" width="420" alt="Google Flow, ElevenLabs, Meta Ads, TikTok Ads, Snapchat Ads and Google Ads logo tiles" /></p>
 
 #### 💻 Web & AI Development
 
