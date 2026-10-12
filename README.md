@@ -24,6 +24,8 @@ My work spans **AI video and image ads, campaign execution, social media marketi
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nextjs,react,figma,ps,ai&theme=dark" alt="Next.js, React, Figma, Adobe Photoshop and Adobe Illustrator" /></p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/muhiudinali/muhiudinali/main/assets/skill-icons.svg" width="720" alt="Performance growth, SEO, social media, ads, AI creative, video, backend development and branding icons" /></p>
+
 #### 💻 Web & AI Development
 
 <p><img src="https://img.shields.io/badge/Frontend%20Development-2563EB?style=for-the-badge&logo=react&logoColor=white" alt="Frontend Development" /> <img src="https://img.shields.io/badge/Backend%20Development-4338CA?style=for-the-badge&logo=code&logoColor=white" alt="Backend Development" /> <img src="https://img.shields.io/badge/Web%20Development-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Development" /> <img src="https://img.shields.io/badge/AI%20Website%20Development-7C3AED?style=for-the-badge&logo=sparkles&logoColor=white" alt="AI Website Development" /> <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=react&logoColor=white" alt="React" /></p>
